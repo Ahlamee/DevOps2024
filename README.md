@@ -1,13 +1,18 @@
 # DevOps-2024-Project
 config the docker image file to run the docker container.
+
 ## Overview
 This project contains a docker image provides a complete development environment for building Laravel website. Built with HTML5, CSS3, and JavaScript, the design offers a clean, user-friendly experience across all devices.
+
 ## Tools of use for demonstration
 - Docker Desktop
 - Virtual Studio Code
+
 ## Method to create dockerfile
 1. starts with the official php:7.4-apache image
-![1-2](https://github.com/user-attachments/assets/be2613b0-e6b1-497f-b01e-12f4c3eb7f67)
+<p float="left">
+  <img src="1-2" alt="image" width="100%"/> 
+</p>
 2. Coppy file in Current folder to the container folderfloder
 ![2-2](https://github.com/user-attachments/assets/41a42918-9acb-4906-979d-a3ac4d571abe)
 3. Open port (HTTP)
