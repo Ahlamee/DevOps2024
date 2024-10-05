@@ -11,7 +11,7 @@ This project contains a docker image provides a complete development environment
 ## Method to create dockerfile
 1. starts with the official php:7.4-apache image
 <p float="left">
-  <img src="1-2" alt="image" width="100%"/> 
+  <img src="img/docker 1-2.png" alt="image" width="100%"/> 
 </p>
 2. Coppy file in Current folder to the container folderfloder
 ![2-2](https://github.com/user-attachments/assets/41a42918-9acb-4906-979d-a3ac4d571abe)
