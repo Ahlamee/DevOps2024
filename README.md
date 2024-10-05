@@ -13,11 +13,13 @@ This project contains a docker image provides a complete development environment
 5. Open port (HTTP)
 6. ![1-3](https://github.com/user-attachments/assets/f3e374cd-8d25-42d5-aa9b-b96dec70b1e8)
 7. Build image
-8. ![1-4](https://github.com/user-attachments/assets/ce6bef22-fe1e-47a9-94f8-19d27ad8d3d3)
-9. Run docker container
-10. ![1-5](https://github.com/user-attachments/assets/409a410f-6c66-403b-a52d-009e912c4319)
-11. ## View the website
-12. http://localhost:7000/
+## Method to demonstrate
+1. docker pull image
+2. ![1-4](https://github.com/user-attachments/assets/ce6bef22-fe1e-47a9-94f8-19d27ad8d3d3)
+3. Run docker container
+4. ![1-5](https://github.com/user-attachments/assets/409a410f-6c66-403b-a52d-009e912c4319)
+## View the website
+1. http://localhost:7000/
 
 
 
