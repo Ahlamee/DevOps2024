@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/37d1cd0f-5329-4f70-b410-eae064100dfd)# DevOps2024
 # DevOps-2024-Project
 config the docker image file to run the docker container.
 ## Overview
